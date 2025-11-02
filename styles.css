@@ -140,26 +140,47 @@ body {
 .tl-progress {
   width: 83%;
 }
+.fm-progress {
+  width: 93%;
+}
 .ax-progress {
   width: 77%;
 }
 .ri-progress {
-  width: 67%;
+  width: 72%;
 }
 .ws-progress {
   width: 64%;
 }
 .gt-progress {
-  width: 88%;
-}
-.el-progress {
-  width: 86%;
+  width: 95%;
 }
 .wb-progress {
-  width: 88%;
+  width: 87%;
 }
-.fm-progress {
-  width: 90%;
+.uu-progress {
+  width: 73%;
+}
+.nd-progress {
+  width: 55%;
+}
+.ns-progress {
+  width: 51%;
+}
+.ep-progress {
+  width: 47%;
+}
+.db-progress {
+  width: 58%;
+}
+.pn-progress {
+  width: 52%;
+}
+.dk-progress {
+  width: 68%;
+}
+.cd-progress {
+  width: 58%;
 }
 .skill-title {
   text-transform: uppercase;
